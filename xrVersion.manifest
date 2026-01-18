@@ -1,0 +1,14 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "author": "devXaur",
+  "description": {
+    "": "Automatically syncs the current Fusion 360 file version to a user parameter whenever a document is opened or saved, enabling consistent version display in models, drawings, and exports.",
+    "de": "Synchronisiert automatisch die aktuelle Fusion 360-Dateiversion mit einem Benutzerparameter, sobald ein Dokument geöffnet oder gespeichert wird, und ermöglicht so eine konsistente Versionsanzeige in Modellen, Zeichnungen und Exporten."
+  },
+  "version": "0.2",
+  "supportedOS": "windows|mac",
+  "editEnabled": true,
+  "runOnStartup": true,
+  "iconFilename": "AddInIcon.svg"
+}
